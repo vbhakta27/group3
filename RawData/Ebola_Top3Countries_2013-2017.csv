@@ -1,0 +1,102 @@
+PASSENGERS,FREIGHT,MAIL,DISTANCE,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,ORIGIN_AIRPORT_ID,ORIGIN,ORIGIN_COUNTRY,ORIGIN_COUNTRY_NAME,DEST_AIRPORT_ID,DEST,DEST_COUNTRY,DEST_COUNTRY_NAME,YEAR,MONTH
+14,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2013,10
+18,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,4
+25,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,9
+31,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2013,8
+31,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,12
+33,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,6
+39,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,7
+40,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2013,9
+41,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,8
+42,0,186,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2013,7
+43,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2013,6
+44,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,5
+47,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2013,11
+58,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,10
+59,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2013,11
+78,0,33,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2013,12
+398,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,9
+441,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,9
+449,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,2
+493,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,10
+509,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,8
+566,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,8
+586,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,1
+627,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,7
+632,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,11
+644,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,2
+713,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,12
+713,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,7
+721,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,6
+729,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,1
+733,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,10
+739,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,11
+825,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,4
+850,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,4
+857,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,5
+884,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,6
+901,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,3
+956,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,3
+983,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2013,5
+1076,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2013,12
+0,26205,0,7140,KAQ,Kalitta Air LLC,14771,SFO,US,United States,14575,ROB,LR,Liberia,2014,10
+0,606,0,4554,KAQ,Kalitta Air LLC,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,9
+0,51040,0,4764,VIQ,Volga-Dnepr Airlines,14492,RDU,US,United States,14575,ROB,LR,Liberia,2014,11
+0,51778,0,5068,KAQ,Kalitta Air LLC,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,10
+0,87669,0,4554,KAQ,Kalitta Air LLC,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,12
+0,182979,0,4879,KAQ,Kalitta Air LLC,11057,CLT,US,United States,14575,ROB,LR,Liberia,2014,11
+0,358337,0,4554,KAQ,Kalitta Air LLC,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,11
+0,108271,0,4554,KAQ,Kalitta Air LLC,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,9
+0,213180,0,4879,KAQ,Kalitta Air LLC,11057,CLT,US,United States,14575,ROB,LR,Liberia,2014,10
+3,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2014,1
+18,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,8
+24,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2014,2
+29,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2014,3
+38,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2014,4
+41,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2014,5
+42,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2014,8
+45,0,0,5068,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,10397,ATL,US,United States,2014,7
+45,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,6
+54,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,5
+54,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,4
+59,0,3,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,1
+59,0,6,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,2
+64,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,7
+76,0,0,5068,0JQ,Vision Airlines,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,12
+79,0,0,5068,DL,Delta Air Lines Inc.,10397,ATL,US,United States,14575,ROB,LR,Liberia,2014,3
+146,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,8
+451,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,7
+503,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,6
+552,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,8
+554,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,2
+640,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,5
+657,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,2
+659,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,7
+697,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,6
+718,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,1
+755,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,4
+770,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,3
+809,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,5
+871,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,4
+936,0,0,4554,DL,Delta Air Lines Inc.,12478,JFK,US,United States,14575,ROB,LR,Liberia,2014,3
+1155,0,0,4554,DL,Delta Air Lines Inc.,14575,ROB,LR,Liberia,12478,JFK,US,United States,2014,1
+0,204000,0,4788,KD,Western Global,13303,MIA,US,United States,14575,ROB,LR,Liberia,2015,1
+0,61837,0,7002,KAQ,Kalitta Air LLC,12892,LAX,US,United States,14575,ROB,LR,Liberia,2015,2
+66,0,0,5068,0JQ,Vision Airlines,10397,ATL,US,United States,14575,ROB,LR,Liberia,2015,3
+66,0,0,5068,0JQ,Vision Airlines,10397,ATL,US,United States,14575,ROB,LR,Liberia,2015,2
+68,0,0,4723,0JQ,Vision Airlines,14575,ROB,LR,Liberia,12264,IAD,US,United States,2015,3
+74,0,0,5068,0JQ,Vision Airlines,14575,ROB,LR,Liberia,10397,ATL,US,United States,2015,2
+0,48184,0,4723,KAQ,Kalitta Air LLC,14575,ROB,LR,Liberia,12264,IAD,US,United States,2016,11
+14,0,0,4537,VJT,VistaJet Limited,11764,FRG,US,United States,14575,ROB,LR,Liberia,2017,12
+0,216114,0,4300,EZ,Evergreen International Inc.,12478,JFK,US,United States,11715,FNA,SL,Sierra Leone,2013,6
+0,93500,0,5394,VIQ,Volga-Dnepr Airlines,13198,MCI,US,United States,11715,FNA,SL,Sierra Leone,2014,12
+0,310767,0,4300,KAQ,Kalitta Air LLC,12478,JFK,US,United States,11715,FNA,SL,Sierra Leone,2014,9
+0,31900,0,4469,VIQ,Volga-Dnepr Airlines,12264,IAD,US,United States,11715,FNA,SL,Sierra Leone,2014,12
+0,146436,0,4300,KAQ,Kalitta Air LLC,12478,JFK,US,United States,11715,FNA,SL,Sierra Leone,2014,10
+0,104009,0,6749,KAQ,Kalitta Air LLC,12892,LAX,US,United States,11715,FNA,SL,Sierra Leone,2015,2
+8,0,0,4300,VJT,VistaJet Limited,11715,FNA,SL,Sierra Leone,12478,JFK,US,United States,2016,9
+10,0,0,4300,VJT,VistaJet Limited,12478,JFK,US,United States,11715,FNA,SL,Sierra Leone,2016,9
+0,46666,0,4469,KAQ,Kalitta Air LLC,11715,FNA,SL,Sierra Leone,12264,IAD,US,United States,2017,4
+0,32340,0,4449,VIQ,Volga-Dnepr Airlines,14492,RDU,US,United States,11037,CKY,GN,Guinea,2014,11
+0,273900,0,4201,VIQ,Volga-Dnepr Airlines,10529,BDL,US,United States,11037,CKY,GN,Guinea,2015,3
+0,108900,0,5331,VIQ,Volga-Dnepr Airlines,13198,MCI,US,United States,11037,CKY,GN,Guinea,2015,4
