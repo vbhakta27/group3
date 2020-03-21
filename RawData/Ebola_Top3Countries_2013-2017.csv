@@ -100,3 +100,574 @@ PASSENGERS,FREIGHT,MAIL,DISTANCE,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,ORIGIN_AIRPO
 0,32340,0,4449,VIQ,Volga-Dnepr Airlines,14492,RDU,US,United States,11037,CKY,GN,Guinea,2014,11
 0,273900,0,4201,VIQ,Volga-Dnepr Airlines,10529,BDL,US,United States,11037,CKY,GN,Guinea,2015,3
 0,108900,0,5331,VIQ,Volga-Dnepr Airlines,13198,MCI,US,United States,11037,CKY,GN,Guinea,2015,4
+0,466134,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,1
+0,90347,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,1
+0,197575,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,2
+0,54637,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,2
+0,12843,0,5325,WO,World Airways Inc.,13043,LOS,NG,Nigeria,14100,PHL,US,United States,2013,2
+0,383394,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,5
+0,164938,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,5
+0,213840,0,6792,VIQ,Volga-Dnepr Airlines,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2013,9
+0,299686,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,12
+0,195681,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,12
+0,512457,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,3
+0,167853,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,3
+0,228004,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,4
+0,143114,0,6792,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2013,4
+0,150687,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,4
+0,95480,0,6792,VIQ,Volga-Dnepr Airlines,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2013,7
+0,10,0,6211,DL,Delta Air Lines Inc.,13495,MSY,US,United States,13043,LOS,NG,Nigeria,2013,7
+0,236102,0,5011,5Y,Atlas Air Inc.,10732,BQN,US,United States,10144,ABV,NG,Nigeria,2013,7
+0,529104,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,10
+0,127382,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,10
+0,0,0,5631,UA,United Air Lines Inc.,13303,MIA,US,United States,13043,LOS,NG,Nigeria,2013,11
+0,0,0,5631,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,13303,MIA,US,United States,2013,12
+0,235103,0,5011,5Y,Atlas Air Inc.,10732,BQN,US,United States,10144,ABV,NG,Nigeria,2013,5
+0,462752,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,6
+0,196665,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,6
+0,234270,0,5011,5Y,Atlas Air Inc.,10732,BQN,US,United States,10144,ABV,NG,Nigeria,2013,6
+0,519933,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,8
+0,132356,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,8
+0,639663,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,9
+0,185396,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,9
+0,456911,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,11
+0,227297,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,11
+0,494828,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,7
+0,131930,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,7
+0,233675,0,5011,5Y,Atlas Air Inc.,10732,BQN,US,United States,10144,ABV,NG,Nigeria,2013,8
+3,0,0,5400,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10821,BWI,US,United States,2013,1
+3,0,0,5250,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,4
+6,0,0,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2013,1
+7,0,0,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2013,2
+7,0,0,5250,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,2
+10,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,3
+13,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,2
+16,8785,0,5250,5Y,Atlas Air Inc.,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,9
+16,0,0,5400,DL,Delta Air Lines Inc.,10821,BWI,US,United States,13043,LOS,NG,Nigeria,2013,1
+23,0,0,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2013,12
+46,15474,0,5522,5Y,Atlas Air Inc.,12265,IAG,US,United States,13043,LOS,NG,Nigeria,2013,9
+66,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,2
+92,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,12
+132,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,2
+171,1,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,7
+180,3274,1357,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,1
+182,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,6
+185,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,3
+202,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,6
+209,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,4
+222,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,3
+243,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,10
+255,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,10
+265,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,11
+277,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,11
+290,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,4
+299,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,9
+302,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,5
+309,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,5
+329,4521,4268,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,3
+336,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,1
+345,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,12
+361,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,8
+383,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,7
+399,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,8
+401,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,9
+443,6215,6047,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,2
+494,29,928,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,12
+797,105420,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,2
+1099,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,2
+1460,97348,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,1
+1531,105437,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,5
+1673,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,3
+1684,118604,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,4
+1723,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,11
+1756,116356,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,3
+1843,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,6
+1874,142476,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,10
+1928,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,5
+2057,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,4
+2093,112343,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,11
+2099,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,9
+2099,137775,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,9
+2165,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,10
+2166,126185,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,6
+2189,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,12
+2408,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,7
+2445,223511,8585,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,2
+2450,124315,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,7
+2505,55675,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,12
+2617,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,1
+2695,143568,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2013,8
+2998,7648,1491,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,2
+3118,7412,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,11
+3218,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2013,8
+3425,162390,11630,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,11
+3651,8769,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,6
+3661,231211,9630,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,3
+3669,17686,14428,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,2
+3681,280387,9380,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,4
+3761,5676,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,10
+3788,9593,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,9
+3807,4792,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,3
+3830,220350,12873,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,7
+3868,217242,5930,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,10
+3917,39017,29674,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,2
+3961,276735,13180,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,6
+4191,184720,18638,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,12
+4258,205747,8979,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,9
+4297,265845,14599,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,8
+4363,3875,3983,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,12
+4365,219863,21682,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,1
+4486,9781,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,5
+4500,280092,11615,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2013,5
+4572,6630,28220,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,7
+4588,5209,14507,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,10
+4602,13637,17814,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,3
+4705,43668,33789,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,4
+4774,9922,13764,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,11
+4800,9812,17844,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,9
+4819,10251,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,4
+4850,10291,16203,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,12
+4980,5285,10160,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,6
+4991,30850,11075,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,1
+5010,4106,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,8
+5022,15502,15898,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,6
+5032,46260,31838,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,3
+5047,6435,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,7
+5086,10627,2920,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,1
+5109,4615,20498,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,8
+5184,13469,17324,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,4
+5217,21352,24413,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,5
+5269,4426,27926,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,9
+5327,1414,23253,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,10
+5397,209,25580,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,11
+5431,13427,21961,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,5
+5444,10339,1938,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2013,1
+5613,19212,18239,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,8
+5714,1099,12375,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2013,12
+5792,17292,17410,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2013,7
+0,45760,0,6792,VIQ,Volga-Dnepr Airlines,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2014,7
+0,92076,0,6792,5Y,Atlas Air Inc.,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2014,8
+0,33220,0,5516,VIQ,Volga-Dnepr Airlines,14492,RDU,US,United States,13043,LOS,NG,Nigeria,2014,11
+0,432606,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,2
+0,223370,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,2
+0,360118,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,1
+0,125123,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,1
+0,0,0,5631,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,13303,MIA,US,United States,2014,3
+0,339700,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,4
+0,196865,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,4
+0,413860,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,5
+0,228246,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,5
+0,362472,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,11
+0,305072,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,11
+0,487870,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,3
+0,221364,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,3
+0,496089,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,6
+0,250340,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,6
+0,301737,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,7
+0,211561,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,7
+0,136400,0,6201,ADB,Antonov Company,13487,MSP,US,United States,12616,KAN,NG,Nigeria,2014,8
+0,247821,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,12
+0,170760,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,12
+0,63800,0,6792,VIQ,Volga-Dnepr Airlines,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2014,2
+0,235866,0,5011,5Y,Atlas Air Inc.,10732,BQN,US,United States,10144,ABV,NG,Nigeria,2014,5
+0,348905,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,10
+0,266660,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,10
+0,417606,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,8
+0,246363,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,8
+0,519836,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,9
+0,344973,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,9
+4,0,0,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2014,4
+4,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,3
+10,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,9
+23,0,0,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2014,12
+99,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,9
+138,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,7
+149,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,10
+149,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,6
+162,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,3
+168,780,505,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,9
+180,13,1495,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2014,3
+183,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,2
+188,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,6
+210,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,4
+225,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,8
+229,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,9
+230,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,4
+238,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,11
+261,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,11
+286,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,7
+301,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,5
+301,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,1
+328,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,5
+343,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,12
+367,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,8
+383,385,2913,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,1
+482,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,12
+548,1559,3285,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,12
+1103,2976,4466,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,3
+1219,74334,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,2
+1277,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,11
+1534,118648,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,10
+1548,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,10
+1624,78333,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,11
+1639,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,2
+1710,87402,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,8
+1711,89131,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,9
+1783,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,12
+1876,39296,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,1
+1890,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,9
+1897,84392,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,3
+2016,86090,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,5
+2099,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,3
+2099,94897,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,4
+2132,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,1
+2298,58898,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,12
+2312,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,6
+2408,52701,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,7
+2434,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,7
+2498,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,4
+2508,60071,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2014,6
+2560,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,8
+2821,75777,13346,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,2
+2873,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2014,5
+3068,3194,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,2
+3590,3154,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,11
+3732,132038,15948,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,1
+3786,101016,11527,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,3
+3863,118097,8050,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,4
+3885,14591,6455,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,2
+3971,5683,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,3
+4111,9904,13575,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,3
+4145,5676,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,10
+4252,1311,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,1
+4337,5142,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,9
+4378,201778,18891,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,11
+4399,7454,12929,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,12
+4406,10291,15566,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,2
+4441,11388,14040,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,11
+4530,179613,25764,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,10
+4581,4640,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,4
+4584,8473,17396,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,7
+4675,226380,24067,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,7
+4740,2764,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,6
+4747,8730,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,12
+4789,1896,4985,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,1
+4808,4006,18385,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,6
+4869,19237,18541,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,3
+4896,6385,14245,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,10
+4905,148818,21169,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,6
+4925,7683,15747,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,9
+4971,3596,9416,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,10
+5038,8958,22150,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,4
+5051,7702,19660,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,8
+5058,2566,15264,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,11
+5091,8027,18942,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,6
+5108,226888,21340,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,8
+5202,138304,31676,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,12
+5224,8491,23765,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,5
+5252,141014,15000,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,5
+5283,12408,23047,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,5
+5288,280032,19883,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2014,9
+5297,7917,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,5
+5350,7734,14354,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,8
+5372,8640,13367,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,1
+5384,546,4773,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,12
+5389,3502,8516,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2014,9
+5482,10034,13334,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,4
+5549,12304,17291,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2014,7
+6149,4510,1254,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,7
+6165,9222,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2014,8
+0,38349,0,6792,5Y,Atlas Air Inc.,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2015,4
+0,55479,0,5250,KAQ,Kalitta Air LLC,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,5
+0,0,0,5631,5Y,Atlas Air Inc.,13043,LOS,NG,Nigeria,13303,MIA,US,United States,2015,6
+0,218693,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,9
+0,229933,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,9
+0,0,0,6646,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,10423,AUS,US,United States,2015,11
+0,136896,0,6792,KAQ,Kalitta Air LLC,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2015,1
+0,0,0,5631,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,13303,MIA,US,United States,2015,3
+0,251346,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,1
+0,225174,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,1
+0,205073,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,10
+0,214955,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,10
+0,245205,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,3
+0,230930,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,3
+0,39771,0,6792,5Y,Atlas Air Inc.,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2015,3
+0,160160,0,6792,VIQ,Volga-Dnepr Airlines,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2015,4
+0,154847,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,4
+0,143293,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,4
+0,213638,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,5
+0,194203,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,5
+0,178666,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,7
+0,199344,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,7
+0,292457,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,11
+0,268,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,11
+0,173857,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,2
+0,163830,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,2
+0,0,0,4727,UA,United Air Lines Inc.,14843,SJU,US,United States,13043,LOS,NG,Nigeria,2015,5
+0,255308,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,6
+0,246671,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,6
+0,149820,0,6792,VIQ,Volga-Dnepr Airlines,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2015,8
+0,279481,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,8
+0,251324,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,8
+0,191004,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,12
+0,197234,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,12
+0,471273,0,5804,WI,Sky Lease Cargo,13303,MIA,US,United States,10144,ABV,NG,Nigeria,2015,2
+0,460325,0,5804,WI,Sky Lease Cargo,13303,MIA,US,United States,10144,ABV,NG,Nigeria,2015,7
+0,0,0,5683,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,13204,MCO,US,United States,2015,2
+1,0,0,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2015,5
+3,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,2
+8,0,0,5978,VJT,VistaJet Limited,10144,ABV,NG,Nigeria,10397,ATL,US,United States,2015,6
+8,0,0,5978,VJT,VistaJet Limited,10397,ATL,US,United States,10144,ABV,NG,Nigeria,2015,6
+9,0,0,6072,VJT,VistaJet Limited,13930,ORD,US,United States,10144,ABV,NG,Nigeria,2015,8
+10,0,0,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2015,2
+10,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,5
+11,0,0,6072,VJT,VistaJet Limited,10144,ABV,NG,Nigeria,13930,ORD,US,United States,2015,8
+15,0,0,4727,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,14843,SJU,US,United States,2015,4
+35,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,11
+55,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,9
+57,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,2
+60,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,8
+71,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,10
+73,0,0,5631,0JQ,Vision Airlines,13303,MIA,US,United States,13043,LOS,NG,Nigeria,2015,4
+76,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,4
+77,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,12
+85,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,10
+85,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,6
+86,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,4
+121,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,9
+123,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,5
+139,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,7
+143,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,2
+151,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,1
+152,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,6
+160,0,0,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,6
+165,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,8
+170,682,1884,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,4
+179,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,3
+182,251,0,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,5
+189,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,5
+195,5311,345,5442,UA,United Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2015,12
+222,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,1
+318,1312,2388,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,11
+753,3045,3459,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,3
+798,52395,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,2
+838,3161,3557,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,2
+887,37847,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,5
+1085,47747,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,3
+1146,43351,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,4
+1180,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,6
+1199,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,11
+1239,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,5
+1250,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,2
+1253,39904,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,9
+1269,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,3
+1363,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,4
+1393,42317,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,10
+1453,75929,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,11
+1455,38478,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,6
+1474,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,7
+1507,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,9
+1516,28237,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,8
+1607,24970,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,7
+1643,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,10
+1651,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,12
+1861,51889,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,1
+1974,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,8
+2199,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2015,1
+2364,36406,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2015,12
+2441,123052,8301,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,2
+2955,2212,10610,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,2
+3021,6095,11503,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,2
+3339,3972,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,2
+3765,3536,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,4
+3768,6863,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,11
+3791,123676,1347,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,3
+4059,8802,14865,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,11
+4074,130376,3890,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,4
+4110,206,1431,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,7
+4257,15741,16909,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,3
+4473,135252,11428,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,11
+4534,3039,565,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,6
+4575,133803,20807,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,1
+4583,5918,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,3
+4646,2023,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,12
+4691,624,9978,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,1
+4725,363,10047,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,3
+4765,13925,18677,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,12
+4795,158350,15239,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,10
+4808,4990,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,10
+4839,8832,16065,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,4
+4857,0,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,11
+4894,13447,22318,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,6
+4912,129229,2183,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,12
+4937,10287,23841,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,10
+4968,310,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,10
+4989,7139,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,9
+5025,185,599,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,8
+5159,0,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,12
+5166,9574,30568,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,9
+5227,3753,6216,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,5
+5251,6187,15488,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,1
+5272,606,9759,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,4
+5281,123129,17484,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,7
+5302,6175,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,1
+5398,10229,18342,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,5
+5518,5861,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,6
+5540,170982,15497,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,8
+5543,21423,24228,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,7
+5563,134035,13789,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,6
+5571,152433,21476,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,9
+5582,148394,4371,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2015,5
+5697,11,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2015,9
+5807,15676,28385,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2015,8
+6077,5643,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,5
+6169,5251,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,8
+6353,4069,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2015,7
+0,179003,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,1
+0,117132,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,1
+0,72241,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,3
+0,71531,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,3
+0,68453,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,4
+0,78527,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,4
+0,163594,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,5
+0,175996,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,5
+0,77515,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,6
+0,23111,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,6
+0,87509,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,7
+0,60093,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,7
+0,0,0,5683,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,13204,MCO,US,United States,2016,1
+0,0,0,6211,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,13495,MSY,US,United States,2016,4
+0,237180,0,6512,CV,Cargolux Airlines International S.A,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,2
+0,174346,0,5250,CV,Cargolux Airlines International S.A,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,2
+0,234960,0,6792,VIQ,Volga-Dnepr Airlines,12266,IAH,US,United States,14095,PHC,NG,Nigeria,2016,9
+0,232006,0,5011,5Y,Atlas Air Inc.,10732,BQN,US,United States,10144,ABV,NG,Nigeria,2016,6
+0,0,0,5250,5Y,Atlas Air Inc.,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,6
+5,0,0,5442,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12264,IAD,US,United States,2016,3
+5,0,0,6573,VJT,VistaJet Limited,13043,LOS,NG,Nigeria,11298,DFW,US,United States,2016,2
+5,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,3
+14,0,0,5442,DL,Delta Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2016,3
+22,0,0,5442,DL,Delta Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2016,10
+24,0,0,5442,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12264,IAD,US,United States,2016,10
+27,0,0,5442,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12264,IAD,US,United States,2016,8
+27,0,0,5442,DL,Delta Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2016,9
+27,0,0,5442,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12264,IAD,US,United States,2016,9
+29,0,0,5442,DL,Delta Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2016,5
+32,0,0,5442,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12264,IAD,US,United States,2016,6
+32,0,0,5442,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12264,IAD,US,United States,2016,4
+37,0,0,5442,DL,Delta Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2016,7
+37,0,0,5442,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12264,IAD,US,United States,2016,7
+39,0,0,5442,DL,Delta Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2016,8
+43,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,1
+64,0,0,5442,DL,Delta Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2016,4
+67,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,2
+68,0,0,5442,DL,Delta Air Lines Inc.,12264,IAD,US,United States,13043,LOS,NG,Nigeria,2016,6
+79,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,12
+162,0,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,12
+178,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,11
+215,0,0,5250,DL,Delta Air Lines Inc.,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,12
+711,2133,5079,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,1
+1175,24332,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,2
+1353,39648,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,5
+1538,24904,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,1
+1611,35365,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,3
+1614,83620,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,4
+1674,31064,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,7
+1862,19670,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,10
+1915,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,12
+1935,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,3
+1971,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,7
+1981,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,2
+1985,29887,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,6
+1997,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,6
+1997,34505,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,9
+2031,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,5
+2040,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,10
+2107,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,1
+2174,32303,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,8
+2251,37028,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,10
+2330,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,4
+2556,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,9
+2560,30248,679,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,9
+2610,27689,0,5250,W3,Arik Air International,12478,JFK,US,United States,13043,LOS,NG,Nigeria,2016,12
+2680,0,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,10
+2715,65228,384,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,2
+2742,30464,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,11
+2786,0,0,5250,W3,Arik Air International,13043,LOS,NG,Nigeria,12478,JFK,US,United States,2016,8
+2818,17873,19655,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,2
+2854,4549,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,9
+2904,462,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,2
+2945,69,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,11
+3001,7146,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2016,2
+3036,20290,29146,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,5
+3142,36829,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,12
+3405,20780,29340,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,4
+3410,8411,12156,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,1
+3427,31128,34901,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,6
+3701,26147,24065,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,3
+3762,0,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,4
+3825,0,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,1
+3875,0,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,5
+3876,2140,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,8
+3889,96286,812,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,3
+3932,37756,31100,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,8
+3942,12449,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2016,6
+3942,32004,303,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,6
+4078,13456,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2016,3
+4085,80965,824,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,4
+4088,83475,385,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,1
+4101,373,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,12
+4185,0,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,6
+4259,9650,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2016,5
+4277,922,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,3
+4431,8076,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2016,4
+4742,73368,799,6512,UA,United Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2016,5
+5179,0,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2016,7
+5199,38206,35119,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2016,7
+5273,2340,0,6512,UA,United Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2016,1
+0,22909,0,7928,ADB,Antonov Company,14691,SBD,US,United States,14095,PHC,NG,Nigeria,2017,12
+0,456987,0,5011,5Y,Atlas Air Inc.,10732,BQN,US,United States,10144,ABV,NG,Nigeria,2017,3
+0,15631,0,5631,5Y,Atlas Air Inc.,13043,LOS,NG,Nigeria,13303,MIA,US,United States,2017,3
+0,127607,0,6100,KD,Western Global,10144,ABV,NG,Nigeria,11612,EVV,US,United States,2017,11
+6,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2017,1
+6,0,0,6573,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,11298,DFW,US,United States,2017,8
+9,0,0,5978,VJT,VistaJet Limited,10397,ATL,US,United States,10144,ABV,NG,Nigeria,2017,6
+16,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2017,6
+37,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2017,8
+64,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2017,9
+95,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2017,5
+97,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,2
+127,0,0,6512,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,12266,IAH,US,United States,2017,7
+132,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,11
+135,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,3
+144,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,12
+162,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,10
+163,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,1
+236,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,7
+256,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,6
+265,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,5
+273,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,9
+285,0,0,6512,DL,Delta Air Lines Inc.,12266,IAH,US,United States,13043,LOS,NG,Nigeria,2017,8
+2302,41444,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,2
+2519,45257,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,3
+2753,399,4497,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,2
+3027,470,3359,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,3
+3268,102624,0,5843,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,11
+3366,74768,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,12
+3416,72187,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,5
+3423,8891,0,5843,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,11
+3427,50157,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,4
+3430,9533,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,1
+3471,63724,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,9
+3568,80401,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,10
+3571,848,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,1
+3607,2,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,9
+3624,1428,749,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,4
+3638,10444,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,12
+3827,89,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,10
+3993,1511,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,5
+4593,1886,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,6
+4600,2235,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,7
+4674,93442,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,6
+5112,2194,0,5844,DL,Delta Air Lines Inc.,10397,ATL,US,United States,13043,LOS,NG,Nigeria,2017,8
+5126,93985,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,7
+5400,84714,0,5844,DL,Delta Air Lines Inc.,13043,LOS,NG,Nigeria,10397,ATL,US,United States,2017,8
