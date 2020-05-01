@@ -57,6 +57,7 @@ The below chart shoes the total cases of MERS over Time, covering from March 201
 <img src="Plots/MERS_Total_cases.png">
 
 Saudi Arabia presented a total of 2058 confirmed cases and Republic of Korea reported 186 cases, covering 92% of total cases. The other 25 countries represent the remaining 8%. Saudi Arabia was selected of the most representative country to display the relationship between MERS and flights frequency.
+
 <img src="Plots/MERS_Total_cases_saudi.png">
 
 The visual impact of MERS on flights that come from and go to Saudi Arabia is represented in the below plot. The green line shows the flight frequency and the blue line shows the MERS cases along the same time period (2012 – 2019). No historical data was analyzed due to the disease time length. The red arrows in this chart show a clear visual relationship between MERS cases increase and decrease with number of flights. 
