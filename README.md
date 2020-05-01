@@ -32,16 +32,19 @@ Compared to the other epidemics Ebola did not have an impact on the number of fl
 
 ## SARS
 SARS may have had a very slight impact on the number of flights between the United States and China, Canada, and Singapore - the countries most impacted by SARS. The number of flights between those countries during the SARS outbreak is consistently below the average number of flights for that same time period between 2002 and 2004, as seen in the chart below. 
+
 <img src="Plots/Historical_SARS.png">
 
 However, when applying the data to calculate the correlation between number of flights and number of cases, there was not a statistically significant correlation (r value: 0.1824). 
 
 SARS’s death count and case count rose at essentially the same rate, along the same timeline (shown below), so it was not possible to distinguish whether the amount of cases or the amount of deaths played a more significant role. Additionally, the fact that H1N1 and MERS appear to have similarly minimal impacts on flights as SARS (based on r value), but with much different mortality rates, indicates that mortality rate itself did not have an impact on flight numbers.
+
 <img src="Plots/SARS_Over_Time.png">
 
 
 ## H1N1
 Based on the analysis, I do believe there was an impact on flights with H1N1 (“Swine Flu”). After taking the historical monthly average for both Domestic and International flights, you can clearly see (in the figure below) that the observed flights is below the historical average for the peak month of the H1N1 cases.
+
 <img src="Plots/line_intl_flights_vs_h1n1.png">
 
 Ultimately, I feel both cases and deaths play a large role in how they can impact flights. For example, H1N1 had a large amount of cases (60M), but had a small mortality rate (<1%). Even though the deaths were low given the high amount of cases, I still saw an impact in the flights above. In comparison, EBOLA had a relatively small outbreak, but a high mortality rate. You can still see an impact on international flights for EBOLA. 
@@ -50,21 +53,25 @@ Ultimately, I feel both cases and deaths play a large role in how they can impac
 ## MERS
 This is an illness produced by a virus, specifically a coronavirus, known as Middle East Respiratory Syndrome Coronavirus - MERS-CoV (CDC). The MERS dataset was extracted from Kaggle. The data was already cleaned and organized by Country and Region. MERS number of deaths was not available. Therefore, mortality rate and total deaths were taken from WHO. 
 The below chart shoes the total cases of MERS over Time, covering from March 2012 to June 2019. Our dataset shows total number of cases of 2449. CDC and WHO reported confirmed total cases varying 0.2% to 2% (approximately). A total of 27 countries were affected by this disease.
+
 <img src="Plots/MERS_Total_cases.png">
 
 Saudi Arabia presented a total of 2058 confirmed cases and Republic of Korea reported 186 cases, covering 92% of total cases. The other 25 countries represent the remaining 8%. Saudi Arabia was selected of the most representative country to display the relationship between MERS and flights frequency.
 <img src="Plots/MERS_Total_cases_saudi.png">
 
 The visual impact of MERS on flights that come from and go to Saudi Arabia is represented in the below plot. The green line shows the flight frequency and the blue line shows the MERS cases along the same time period (2012 – 2019). No historical data was analyzed due to the disease time length. The red arrows in this chart show a clear visual relationship between MERS cases increase and decrease with number of flights. 
+
 <img src="Plots/Saudi_MERS_Flights.png">
 
 It is important to mention that our flight dataset only considered Saudia airlines. This is one of the 21 airlines that have flights from United States to Saudi Arabia. More data availability should provide more facts regarding the actual correlation between flights and MERS cases. The current correlation contains an r_value of 0.25, which reflects that there is non meaningful significance among datasets. However, a trend can be visualized. Thus, further data availability should clarify the relationship existence.
+
 <img src="Plots/MERS_Flights_scatter.png">
 
 
 ## Conclusions 
-Based on r value results, flight and epidemic data do not show a statistically significant correlation
-<img src="Plots/r_values..png">
+Based on r value results, flight and epidemic data do not show a statistically significant correlation.
+
+<img src="Plots/r_values.png">
 
 •	A greater amount of flight data points is necessary to increase certainty regarding the Epidemics impact on Flights
 •	The flight data shows a cyclical behavior throughout the years
