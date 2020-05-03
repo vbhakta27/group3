@@ -1,5 +1,12 @@
 # Impact of Infectious Diseases on Flights
 
+## Team Members
+- Ryan Ashcroft
+- Vikash Bhakta
+- Luis Olguin
+- Maria Soto
+
+
 ## Background and Motivation
 The project was inspired by COVID-19’s massive recent impact on airline industry. We wondered have other disease outbreaks caused similar impacts on flying? Does the amount of an epidemic's cases or deaths influence the number of flights? Does the mortality rate play any significant role?
 
