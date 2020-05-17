@@ -1,7 +1,7 @@
 # Impact of Infectious Diseases on Flights
 
 ## Team Members
-- Ryan Ashcroft
+- Ryan Ashcraft
 - Vikash Bhakta
 - Luis Olguin
 - Maria Soto
