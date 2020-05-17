@@ -80,8 +80,8 @@ Based on r value results, flight and epidemic data do not show a statistically s
 
 <img src="Plots/r_values.png">
 
-•	A greater amount of flight data points is necessary to increase certainty regarding the Epidemics impact on Flights
-•	The flight data shows a cyclical behavior throughout the years
+•	More flight data points are necessary to increase certainty regarding the Epidemics impact on Flights
+•	The flight data shows a cyclical behavior throughout the years, which makes pinpointing the impact of our diseases more difficult
 •	There is not a statistically significant correlation between flight and epidemic datasets
 •	Higher outbreaks seem to negatively impact flight frequency
 •	There seems to exist an impact of epidemics on flight frequency. However, there is uncertainty in this regard since we do not have sufficient data to backup this correlation
